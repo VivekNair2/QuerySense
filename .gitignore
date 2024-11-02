@@ -1,0 +1,7 @@
+__pycache__
+.env
+storage
+users.db
+captured_image.png
+generated_image.png
+image.png
